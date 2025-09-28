@@ -30,10 +30,10 @@ const AboutSectionTwo = () => {
               <div className="mb-9">
                 <h1>Education</h1>
                 <h1 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                Bachelor of Technology in Electronics & Telecommunication
+                Bachelor of Technology in Electronics &amp; Telecommunication
                 </h1>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                DKTE Society's Textile & Engineering Institute.
+                DKTE Society&apos;s Textile &amp; Engineering Institute.
                 </p>
               </div>
               <div className="mb-9">
